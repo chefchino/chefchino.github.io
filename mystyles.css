@@ -1,7 +1,10 @@
 
-
+header {
+    color: Blue;
+    text-ailgn: center;
+    font-size:48px;
 body {
-    font-size: 48px;
+    font-size: 24px;
     color: forestgreen;
     text-align: center;
 
